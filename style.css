@@ -172,20 +172,22 @@ box-shadow: 0 0 30px rgba(185, 185, 185, 0.589);
 border-radius: 20px;
 padding: 10px;
 }
-.map{
+.contact-map-div img{
+    width: 60%;
     margin-top: 15px;
 border: 0;
 box-shadow: 0 0 30px rgba(185, 185, 185, 0.589);
 border-radius: 20px;
 padding: 10px;
 }
+.contact-map-div img{
+    
+}
 
 .feedbackbox{
     width: 300px;
     height: 100px;
 }
-
-.contact-map-div{
 
 
 }

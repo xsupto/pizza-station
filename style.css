@@ -153,6 +153,10 @@ margin-right: 5%;
 
 }
 
+.checkbox{
+    display: inline;
+}
+
 .feedback-box{
 display: block;
 margin-top: 15px;

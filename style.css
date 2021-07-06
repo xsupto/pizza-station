@@ -73,6 +73,7 @@ p{
     font-weight: 600;
     margin-top: 30px;
     display: inline-block;
+    box-shadow: 0 0 40px rgb(185, 184, 184);
 
 }
 .order-button:hover{
@@ -144,6 +145,27 @@ p{
     font-weight: 200;
 }
 
+.map-contact-box{
+display: flex;
+margin-left: 5%;
+margin-right: 5%;
+
+
+}
+
+.feedback-box{
+display: block;
+margin-top: 15px;
+
+}
+
+.contact-map-div{
+
+
+}
+.contact-form{
+    width: 45%;
+}
 
 
 footer{
